@@ -11,4 +11,7 @@ thing is to have fun.
 
 You can download the game too. I shared a jar file in this repository.
 
+
+
+
 ![SnakeGame](https://user-images.githubusercontent.com/95768526/152031242-759bc952-c198-4201-8ef4-43df5b5d8fb4.png)
