@@ -1,5 +1,5 @@
 # Snake-Game
-Simple snake game using Java Swing
+Simple implementation of the well-known snake game using Java Swing.
 
 Today I decided to make a simple game using Java Swing. I learned a lot of things about Java Swing and face some difficulties too. 
 I mean this is programming and it's not supposed to be easy. The hardest thing was to make the game start over when you press enter or space bar, but without opening new window.
